@@ -5,11 +5,11 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=preet1011&label=Profile%20views&color=0e75b6&style=flat" alt="preet1011" /> </p>
 
-- 🌱 I’m currently learning **react js**
+- 🌱 I’m  Frontend Developer  **react js**
 
 - 📫 How to reach me **tyagipreet552@gmail.com**
 
-- 📄 Know about my experiences [I m fresher](I m fresher)
+- 📄 Know about my experiences [1 Year Experience ]
 
 - ⚡ Fun fact **I m funny**
 
