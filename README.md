@@ -7,7 +7,7 @@
 
 - 🌱 I’m currently learning **react js**
 
-- 📫 How to reach me **preet0896.be20@chitkara.edu.in**
+- 📫 How to reach me **tyagipreet552@gmail.com**
 
 - 📄 Know about my experiences [I m fresher](I m fresher)
 
